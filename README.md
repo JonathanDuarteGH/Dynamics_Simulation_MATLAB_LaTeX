@@ -18,10 +18,6 @@ git clone https://github.com/JonathanDuarteGH/Dynamics_Simulation_MATLAB_LaTeX.g
 
 3. Explore
 
-```
-Enjoy :)
-```
-
 ## Program Built With
 
 * MATLAB 2018
